@@ -1,0 +1,11 @@
+{
+  "name": "skywidesoft-test-util",
+  "version": "0.0.2",
+  "description": "My testing util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clarence Ho",
+  "license": "ISC"
+}
